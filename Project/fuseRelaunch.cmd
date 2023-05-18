@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/IT CITY/Documents/CAD/Project/Project/testbench_isim_beh.exe" -prj "C:/Users/IT CITY/Documents/CAD/Project/Project/testbench_beh.prj" "work.testbench" 

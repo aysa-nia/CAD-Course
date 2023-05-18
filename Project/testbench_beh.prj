@@ -1,0 +1,5 @@
+vhdl work "Package.vhd"
+vhdl work "Rasht.vhd"
+vhdl work "PE.vhd"
+vhdl work "main.vhd"
+vhdl work "tb.vhd"

@@ -1,0 +1,5 @@
+vhdl isim_temp "Package.vhd"
+vhdl isim_temp "Rasht.vhd"
+vhdl isim_temp "PE.vhd"
+vhdl isim_temp "main.vhd"
+vhdl isim_temp "tb.vhd"

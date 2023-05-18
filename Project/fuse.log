@@ -1,0 +1,26 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Users/IT CITY/Documents/CAD/Project/Project/testbench_isim_beh.exe -prj C:/Users/IT CITY/Documents/CAD/Project/Project/testbench_beh.prj work.testbench 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/IT CITY/Documents/CAD/Project/Project/Package.vhd" into library work
+Parsing VHDL file "C:/Users/IT CITY/Documents/CAD/Project/Project/Rasht.vhd" into library work
+Parsing VHDL file "C:/Users/IT CITY/Documents/CAD/Project/Project/PE.vhd" into library work
+Parsing VHDL file "C:/Users/IT CITY/Documents/CAD/Project/Project/main.vhd" into library work
+Parsing VHDL file "C:/Users/IT CITY/Documents/CAD/Project/Project/tb.vhd" into library work
+WARNING:HDLCompiler:1369 - "C:/Users/IT CITY/Documents/CAD/Project/Project/tb.vhd" Line 32: Possible infinite loop; process does not have a wait statement
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package math_real
+Compiling package my_package
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity PE [pe_default]
+Compiling architecture behavioral of entity Rasht [rasht_default]
+Compiling architecture behavioral of entity main [\main(4)\]
+Compiling architecture behavior of entity testbench
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
